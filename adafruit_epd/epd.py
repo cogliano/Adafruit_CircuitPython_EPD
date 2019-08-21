@@ -36,7 +36,6 @@ class Adafruit_EPD: # pylint: disable=too-many-instance-attributes, too-many-pub
     """
     BLACK = const(0)
     WHITE = const(1)
-    INVERSE = const(2)
     RED = const(3)
     DARK = const(4)
     LIGHT = const(5)
